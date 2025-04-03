@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm [Sabbyasachi]</h1>
 <h3 align="center">🚀 Full Stack Developer | JavaScript | TypeScript | MERN | Web3 | AI</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Metalblade46&show_icons=true&theme=radical" alt="Metalblade46" />
-</p>
-
 ## 🌟 About Me
 
 - 💻 Full Stack Developer with expertise in **JavaScript, TypeScript, MERN Stack, Web3, Python, Java and AI**.
