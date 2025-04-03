@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sabbyasachi]</h1>
+<h1 align="center">Hi 👋, I'm Sabbyasachi</h1>
 <h3 align="center">🚀 Full Stack Developer | JavaScript | TypeScript | MERN | Web3 | AI</h3>
 
 ## 🌟 About Me
