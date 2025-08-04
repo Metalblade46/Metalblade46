@@ -4,10 +4,8 @@
 ## 🌟 About Me
 
 - 💻 Full Stack Developer with expertise in **JavaScript, TypeScript, MERN Stack, Web3, Python, Java and AI**.
-- 🔭 Currently building **a Decentralized Physical Infrastructure Network Monitorinng Tool**.
 - 🚀 Passionate about **SaaS development, blockchain analytics, and interactive web experiences**.
 - 🎯 Looking for opportunities in **SaaS product development**.
-- 🌱 Exploring **Zero-Knowledge Proofs (ZKPs), AI-driven API documentation, and 3D web experiences**.
 
 ## 🛠 Tech Stack
 
